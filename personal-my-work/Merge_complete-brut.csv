@@ -1,19 +1,19 @@
 Student ID;student_name;gender;grade;school_name;reading_score;math_score;School ID;type; size ; budget ; Reading ok ; Maths ok ; both ok ;;School ID;school_name;type;size;budget;School ID;per capita;% reading;% math;% all
-0;Paul Bradley;M;9th;Huang High School;66;79;0;District;2 917;1 910 635;Nok;ok;Nok;;6;Cabrera High School;Charter;1858;1081356;6;582;97,04%;94,13%;91,33%
-1;Victor Smith;M;12th;Huang High School;94;61;0;District;2 917;1 910 635;ok;Nok;Nok;;14;Thomas High School;Charter;1635;1043130;14;638;97,31%;93,27%;90,95%
-2;Kevin Rodriguez;M;12th;Huang High School;90;60;0;District;2 917;1 910 635;ok;Nok;Nok;;4;Griffin High School;Charter;1468;917500;4;625;97,14%;93,39%;90,60%
-3;Dr. Richard Scott;M;12th;Huang High School;67;58;0;District;2 917;1 910 635;Nok;Nok;Nok;;5;Wilson High School;Charter;2283;1319574;5;578;96,54%;93,87%;90,58%
-4;Bonnie Ray;F;9th;Huang High School;97;84;0;District;2 917;1 910 635;ok;ok;ok;;9;Pena High School;Charter;962;585858;9;609;95,95%;94,59%;90,54%
-5;Bryan Miranda;M;9th;Huang High School;94;94;0;District;2 917;1 910 635;ok;ok;ok;;10;Wright High School;Charter;1800;1049400;10;583;96,61%;93,33%;90,33%
-6;Sheena Carter;F;11th;Huang High School;82;80;0;District;2 917;1 910 635;ok;ok;ok;;2;Shelton High School;Charter;1761;1056600;2;600;95,85%;93,87%;89,89%
-7;Nicole Baker;F;12th;Huang High School;96;69;0;District;2 917;1 910 635;ok;Nok;Nok;;8;Holden High School;Charter;427;248087;8;581;96,25%;92,51%;89,23%
-8;Michael Roth;M;10th;Huang High School;95;87;0;District;2 917;1 910 635;ok;ok;ok;;7;Bailey High School;District;4976;3124928;7;628;81,93%;66,68%;54,64%
-9;Matthew Greene;M;10th;Huang High School;96;84;0;District;2 917;1 910 635;ok;ok;ok;;13;Ford High School;District;2739;1763916;13;644;79,30%;68,31%;54,29%
-10;Andrew Alexander;M;10th;Huang High School;90;70;0;District;2 917;1 910 635;ok;ok;ok;;12;Johnson High School;District;4761;3094650;12;650;81,22%;66,06%;53,54%
-11;Daniel Cooper;M;10th;Huang High School;78;77;0;District;2 917;1 910 635;ok;ok;ok;;3;Hernandez High School;District;4635;3022020;3;652;80,86%;66,75%;53,53%
-12;Brittney Walker;F;9th;Huang High School;64;79;0;District;2 917;1 910 635;Nok;ok;Nok;;0;Huang High School;District;2917;1910635;0;655;81,32%;65,68%;53,51%
-13;William Long;M;9th;Huang High School;71;79;0;District;2 917;1 910 635;ok;ok;ok;;1;Figueroa High School;District;2949;1884411;1;639;80,74%;65,99%;53,20%
-14;Tammy Hebert;F;10th;Huang High School;85;67;0;District;2 917;1 910 635;ok;Nok;Nok;;11;Rodriguez High School;District;3999;2547363;11;637;80,22%;66,37%;52,99%
+0;Paul Bradley;M;9th;Huang High School;66;79;0;District;2 917;1 910 635;Nok;ok;Nok;;6;Cabrera High School;Charter;1858;1081356;6;582; 97,04 ; 94,13 ; 91,33 
+1;Victor Smith;M;12th;Huang High School;94;61;0;District;2 917;1 910 635;ok;Nok;Nok;;14;Thomas High School;Charter;1635;1043130;14;638; 97,31 ; 93,27 ; 90,95 
+2;Kevin Rodriguez;M;12th;Huang High School;90;60;0;District;2 917;1 910 635;ok;Nok;Nok;;4;Griffin High School;Charter;1468;917500;4;625; 97,14 ; 93,39 ; 90,60 
+3;Dr. Richard Scott;M;12th;Huang High School;67;58;0;District;2 917;1 910 635;Nok;Nok;Nok;;5;Wilson High School;Charter;2283;1319574;5;578; 96,54 ; 93,87 ; 90,58 
+4;Bonnie Ray;F;9th;Huang High School;97;84;0;District;2 917;1 910 635;ok;ok;ok;;9;Pena High School;Charter;962;585858;9;609; 95,95 ; 94,59 ; 90,54 
+5;Bryan Miranda;M;9th;Huang High School;94;94;0;District;2 917;1 910 635;ok;ok;ok;;10;Wright High School;Charter;1800;1049400;10;583; 96,61 ; 93,33 ; 90,33 
+6;Sheena Carter;F;11th;Huang High School;82;80;0;District;2 917;1 910 635;ok;ok;ok;;2;Shelton High School;Charter;1761;1056600;2;600; 95,85 ; 93,87 ; 89,89 
+7;Nicole Baker;F;12th;Huang High School;96;69;0;District;2 917;1 910 635;ok;Nok;Nok;;8;Holden High School;Charter;427;248087;8;581; 96,25 ; 92,51 ; 89,23 
+8;Michael Roth;M;10th;Huang High School;95;87;0;District;2 917;1 910 635;ok;ok;ok;;7;Bailey High School;District;4976;3124928;7;628; 81,93 ; 66,68 ; 54,64 
+9;Matthew Greene;M;10th;Huang High School;96;84;0;District;2 917;1 910 635;ok;ok;ok;;13;Ford High School;District;2739;1763916;13;644; 79,30 ; 68,31 ; 54,29 
+10;Andrew Alexander;M;10th;Huang High School;90;70;0;District;2 917;1 910 635;ok;ok;ok;;12;Johnson High School;District;4761;3094650;12;650; 81,22 ; 66,06 ; 53,54 
+11;Daniel Cooper;M;10th;Huang High School;78;77;0;District;2 917;1 910 635;ok;ok;ok;;3;Hernandez High School;District;4635;3022020;3;652; 80,86 ; 66,75 ; 53,53 
+12;Brittney Walker;F;9th;Huang High School;64;79;0;District;2 917;1 910 635;Nok;ok;Nok;;0;Huang High School;District;2917;1910635;0;655; 81,32 ; 65,68 ; 53,51 
+13;William Long;M;9th;Huang High School;71;79;0;District;2 917;1 910 635;ok;ok;ok;;1;Figueroa High School;District;2949;1884411;1;639; 80,74 ; 65,99 ; 53,20 
+14;Tammy Hebert;F;10th;Huang High School;85;67;0;District;2 917;1 910 635;ok;Nok;Nok;;11;Rodriguez High School;District;3999;2547363;11;637; 80,22 ; 66,37 ; 52,99 
 15;Dr. Jordan Carson;M;11th;Huang High School;94;88;0;District;2 917;1 910 635;ok;ok;ok;;;;;;;;;;;
 16;Donald Zamora;M;9th;Huang High School;88;55;0;District;2 917;1 910 635;ok;Nok;Nok;;;;;;;;;;;
 17;Kimberly Santiago;F;9th;Huang High School;74;75;0;District;2 917;1 910 635;ok;ok;ok;;;;;;;;;;;
