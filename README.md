@@ -12,7 +12,8 @@ i tried to give detaiclarifications and comments inside the code
 
 2 source files (csv) are in /Resources folder
 
+1 word document with analysis of the results
 
-the codeis fragile
+the code is fragile
 use with lot of care plz!
 
